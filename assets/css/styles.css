@@ -93,7 +93,11 @@ body {
     /* border: 1px solid #e5ff00f8; */
     background-color: #e5ff00f8;
 }
-
+.vector-bg{
+    background-image: url('../images/vector1.png');
+    background-size: cover;
+    background-position: center; 
+}
 .content {
     padding: 50px 0;
 }
